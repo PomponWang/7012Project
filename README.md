@@ -1,2 +1,2 @@
 # 7012Project
-Group project of ARIN7012, 23Fall, HKU
+Group project of ARIN7012, 24 Spring, HKU
